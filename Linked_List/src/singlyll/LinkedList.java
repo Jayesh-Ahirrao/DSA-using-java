@@ -2,8 +2,6 @@ package singlyll;
 
 import java.util.Scanner;
 
-import javax.sound.midi.Soundbank;
-
 public class LinkedList {
 	private Node head;
 
